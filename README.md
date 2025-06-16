@@ -1,2 +1,2 @@
 # expenseTracker
-Create an expense tracker using FS
+Create an expense tracker using MERN stack + TailwindCSS
